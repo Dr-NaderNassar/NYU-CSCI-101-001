@@ -1,2 +1,2 @@
 # NYU-CSCI-101-001
-NYU-CSCI-101-001
+Class Schedule
